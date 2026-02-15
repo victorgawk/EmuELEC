@@ -2,8 +2,8 @@
 # Copyright (C) 2022-present Team CoreELEC (https://coreelec.org)
 
 PKG_NAME="bl30"
-PKG_VERSION="02fffaea206644f493e8477bf03ce77e49df58b8"
-PKG_SHA256="ff1b0139008ef76045014822bfa67699a0150cc2e7583c071bb5057a619c9c80"
+PKG_VERSION="e08015a6b17fda21260c7a9c8bfd3c98ee2a61c1"
+PKG_SHA256="cc79de0b7e0829648ce950579236b26ee4e129a01d9e75cd55efc828126fa3a6"
 PKG_LICENSE="GPL"
 PKG_SITE="https://coreelec.org"
 PKG_URL="https://github.com/CoreELEC/bl30/archive/${PKG_VERSION}.tar.gz"
